@@ -1,5 +1,10 @@
 // noinspection JSDeprecatedSymbols
 
+/**
+* @link https://developer.mozilla.org/en-US/docs/Web/HTML/Element/script/type/importmap
+* @link https://habr.com/ru/articles/547214
+*/
+
 import { Game } from './src/game.js'
 
 window.addEventListener('load', function() {
