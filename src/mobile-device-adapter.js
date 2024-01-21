@@ -10,7 +10,7 @@ export class MobileDeviceAdapter
 
   static handleTouchPad(game)
   {
-    const canvas = document.getElementById('canvas1')
+    const canvas = document.getElementById('canvas')
     let initialY
 
     canvas.addEventListener('touchstart', (e) => {
